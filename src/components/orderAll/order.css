@@ -1,0 +1,10 @@
+.order{
+    box-shadow: 3px 3px 6px #d0cfcf;
+    cursor: pointer;
+    transition: .2s;
+    height: 70px;
+}
+.order:hover{
+    box-shadow: 10px 10px 20px #d0cfcf;
+
+}
